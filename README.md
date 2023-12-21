@@ -16,13 +16,17 @@
   About me
 </h3>
 
-- 👨🏻‍💻 I'm currently working on **Common Core**
+<p>
+  
+  - 👨🏻‍💻 Journeying through the **Common Core**
 
-- 📚 I’m currently learning **C** and **HTML**
+  - 📚 I’m currently learning **C** and **HTML**
 
-- 💡 Fun fact, **I like many sports**
+  - 💡 Fun fact, **I really like sports**
 
--  📫 Reach me at **nizarbidal18@gmail.com**
+  - 📫 Reach me at my <a href="mailto:nizarbidal18@gmail.com">email</a> or my <a href="https://discordapp.com/users/439707953176510477">Discord</a>
+
+</p>
 
 <br>
 
@@ -44,7 +48,6 @@
 <br>
 <br>
 <br>
-
 
 <p>
   <!-- <img align="right" alt="gitStats" src="https://github-readme-stats.vercel.app/api?username=nbidal18&show_icons=true&theme=dark&title_color=a0bdff&icon_color=22c55e&text_color=417bff&border_color=1D2B3D&bg_color=0c1117&hide_border=false&locale=en" /> -->
