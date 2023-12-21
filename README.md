@@ -45,7 +45,9 @@
 <br>
 <br>
 
+
 <p>
-  <img align="center" alt="githubStats" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbidal18&show_icons=true&theme=dark&title_color=a0bdff&text_color=417bff&border_color=1D2B3D&bg_color=0c1117&hide_border=false&locale=en&layout=compact" />
-  <img align="left" alt="languagesStats" src="https://github-readme-stats.vercel.app/api?username=nbidal18&show_icons=true&theme=dark&title_color=a0bdff&text_color=417bff&border_color=1D2B3D&bg_color=0c1117&hide_border=false&locale=en" />
+  <img align="right" alt="gitStats" src="https://github-readme-stats.vercel.app/api?username=nbidal18&show_icons=true&theme=dark&title_color=a0bdff&icon_color=22c55e&text_color=417bff&border_color=1D2B3D&bg_color=0c1117&hide_border=false&locale=en" />
+  <img alt="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nbidal18&exclude_days=Sun%2CSat&excludeDaysLabel=0c1117&stroke=1D2B3D&background=0c1117&ring=417bff&fire=22c55e&currStreakNum=a0bdff&currStreakLabel=a0bdff&sideNums=a0bdff&sideLabels=a0bdff&dates=417bff&hide_border=false&border=1D2B3D" />
+  <img align="left" alt="langStats" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbidal18&show_icons=true&theme=dark&title_color=a0bdff&text_color=417bff&border_color=1D2B3D&bg_color=0c1117&hide_border=false&locale=en&layout=compact" />
 </p>
