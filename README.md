@@ -46,6 +46,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <p>
   <img align="center" alt="githubStats" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbidal18&show_icons=true&theme=dark&title_color=fafafa&text_color=2683a4&bg_color=0E161A&hide_border=true&locale=en&layout=compact" />
