@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://media.licdn.com/dms/image/C4D1BAQFFp2ePlYBGIQ/company-background_10000/0/1618416714415/42network_cover?e=2147483647&v=beta&t=v3n02wVYGN4d6o_ZBHqcQaiBURLxgyNvAwXThmILtY4)](https://rishavchanda.io)-->
+<!-- ![MasterHead](https://github.com/nbidal18/nbidal18/blob/main/header.png) -->
 
 <h1 align="center">
   Hi, I'm nbidal18 👋
@@ -10,6 +10,7 @@
 
 <br>
 
+<img align="right" alt="42badge" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 <!-- cool gif but need dto remove background -->
 <!-- <img align="right" alt="42badge" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" /> -->
 <!-- not working for some reason -->
