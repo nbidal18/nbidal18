@@ -10,7 +10,10 @@
 
 <br>
 
-<img align="right" alt="42badge" width="400" src="https://badge.mediaplus.ma/darkblue/nbidal?1337Badge=off&UM6P=off" />
+<!-- cool gif but need dto remove background -->
+<!-- <img align="right" alt="42badge" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" /> -->
+<!-- not working for some reason -->
+<!-- <img align="right" alt="42badge" width="400" src="https://badge.mediaplus.ma/darkblue/nbidal?1337Badge=off&UM6P=off" /> -->
 
 <h3 align="left">
   About me
