@@ -47,7 +47,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <p>
   <!-- <img align="right" alt="gitStats" src="https://github-readme-stats.vercel.app/api?username=nbidal18&show_icons=true&theme=dark&title_color=a0bdff&icon_color=22c55e&text_color=417bff&border_color=1D2B3D&bg_color=0c1117&hide_border=false&locale=en" /> -->
