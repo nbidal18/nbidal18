@@ -1,5 +1,3 @@
-<!-- ![MasterHead](https://github.com/nbidal18/nbidal18/blob/main/header.png) -->
-
 <h1 align="center">
   Hi, I'm nbidal18 👋
 </h1>
