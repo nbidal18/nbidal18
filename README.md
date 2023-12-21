@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" alt="devGif" width="400" src="https://github.com/nbidal18/nbidal18/blob/main/readme.gif" />
+<img align="right" alt="devGif" width="400" src="https://github.com/nbidal18/nbidal18/blob/main/content/dev.gif" />
 <!-- not working for some reason -->
 <!-- <img align="right" alt="42badge" width="400" src="https://badge.mediaplus.ma/darkblue/nbidal?1337Badge=off&UM6P=off" /> -->
 
@@ -31,13 +31,13 @@
 </h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  <img alt="c" src="https://github.com/nbidal18/nbidal18/blob/main/content/c-original.svg" width="40" height="40" />
+  <img alt="cplusplus" src="https://github.com/nbidal18/nbidal18/blob/main/content/cplusplus-original.svg" width="40" height="40" />
+  <img alt="csharp" src="https://github.com/nbidal18/nbidal18/blob/main/content/csharp-original.svg" width="40" height="40" />
+  <img alt="html5" src="https://github.com/nbidal18/nbidal18/blob/main/content/html5-original-wordmark.svg" width="40" height="40" />
+  <img alt="bash" src="https://github.com/nbidal18/nbidal18/blob/main/content/bash-original.svg" width="40" height="40" />
+  <img alt="php" src="https://github.com/nbidal18/nbidal18/blob/main/content/php-original.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/content/mysql-original-wordmark.svg" width="40" height="40" /> </a>
 </p>
 
 <br>
