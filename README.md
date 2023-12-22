@@ -8,9 +8,13 @@
 
 <br>
 
-<img align="right" alt="devGif" width="400" src="https://github.com/nbidal18/nbidal18/blob/main/content/dev.gif" />
-<!-- not working for some reason -->
-<!-- <img align="right" alt="42badge" width="400" src="https://badge.mediaplus.ma/darkblue/nbidal?1337Badge=off&UM6P=off" /> -->
+ <picture>
+  <!-- dark mode -->
+    <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/nbidal18/nbidal18/blob/main/content/dev_dark.gif" >
+  <!-- light mode -->
+    <img align="right" src="https://github.com/nbidal18/nbidal18/blob/main/content/dev_light.gif">
+  </picture>
 
 <h3 align="left">
   About me
