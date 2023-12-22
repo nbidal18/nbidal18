@@ -11,9 +11,9 @@
  <picture>
   <!-- dark mode -->
     <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github.com/nbidal18/nbidal18/blob/main/content/dev_dark.gif" >
+    srcset="https://github.com/nbidal18/nbidal18/blob/main/content/dark_dev.gif" >
   <!-- light mode -->
-    <img align="right" width="420" src="">
+    <img align="right" width="400" src="https://github.com/nbidal18/nbidal18/blob/main/content/light_dev.gif">
   </picture>
 
 <h3 align="left">
