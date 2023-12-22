@@ -13,7 +13,7 @@
     <source media="(prefers-color-scheme: dark)" 
     srcset="https://github.com/nbidal18/nbidal18/blob/main/content/dev_dark.gif" >
   <!-- light mode -->
-    <img align="right" width="420" src="https://github.com/nbidal18/nbidal18/blob/main/content/dev_light.gif">
+    <img align="right" width="420" src="">
   </picture>
 
 <h3 align="left">
