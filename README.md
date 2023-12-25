@@ -35,7 +35,7 @@
 <br>
 
 <h3 align="left">
-  Languages and Tools
+  Tech Stack
 </h3>
 
 <p align="left">
