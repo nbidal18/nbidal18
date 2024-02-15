@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate developer from Italy
+  A former developer from Italy
 </h3>
 
 <br>
@@ -24,11 +24,11 @@
   
   - 👨🏻‍💻 Journeying through the **Common Core**
 
-  - 📚 I’m currently learning **C** and **HTML**
+  - 📚 I’m currently learning to code in **C**
 
-  - 💡 Fun fact, **I really like sports**
+  - 💡 Fun fact, **I *really* really like sports**
 
-  - 📫 Reach me at my <a href="mailto:nizarbidal18@gmail.com">email</a> or my <a href="https://discordapp.com/users/439707953176510477">Discord</a>
+  - 📫 Reach me at my <a href="mailto:nizarbidal18@gmail.com">**email**</a> or my <a href="https://discordapp.com/users/439707953176510477">**Discord**</a>
 
 </p>
 
