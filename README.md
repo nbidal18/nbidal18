@@ -40,7 +40,7 @@
 
 <p align="left">
   <img alt="c" src="https://github.com/nbidal18/nbidal18/blob/main/content/c-original.svg" width="40" height="40" />
-  <img alt="cplusplus" src="https://github.com/nbidal18/nbidal18/blob/main/content/cplusplus-original.svg" width="40" height="40" />
+  <!-- <img alt="cplusplus" src="https://github.com/nbidal18/nbidal18/blob/main/content/cplusplus-original.svg" width="40" height="40" /> -->
   <!-- <img alt="html5" src="https://github.com/nbidal18/nbidal18/blob/main/content/html5-original-wordmark.svg" width="40" height="40" /> -->
   <img alt="bash" src="https://github.com/nbidal18/nbidal18/blob/main/content/bash-original.svg" width="40" height="40" />
   <!-- <img alt="php" src="https://github.com/nbidal18/nbidal18/blob/main/content/php-original.svg" width="40" height="40" /> -->
