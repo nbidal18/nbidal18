@@ -44,7 +44,7 @@
   <!-- <img alt="html5" src="https://github.com/nbidal18/nbidal18/blob/main/content/html5-original-wordmark.svg" width="40" height="40" /> -->
   <img alt="bash" src="https://github.com/nbidal18/nbidal18/blob/main/content/bash-original.svg" width="40" height="40" />
   <!-- <img alt="php" src="https://github.com/nbidal18/nbidal18/blob/main/content/php-original.svg" width="40" height="40" /> -->
-  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/content/mysql-original-wordmark.svg" width="40" height="40" /> </a>
+  <!-- <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/content/mysql-original-wordmark.svg" width="40" height="40" /> --> </a>
 </p>
 
 <br>
