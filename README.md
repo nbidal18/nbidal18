@@ -11,9 +11,9 @@
  <picture>
   <!-- dark mode -->
     <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github.com/nbidal18/nbidal18/blob/main/content/dark_dev.gif" >
+    srcset="https://github.com/nbidal18/nbidal18/blob/main/assets/art/dark_dev.gif" >
   <!-- light mode -->
-    <img align="right" width="400" src="https://github.com/nbidal18/nbidal18/blob/main/content/light_dev.gif">
+    <img align="right" width="400" src="https://github.com/nbidal18/nbidal18/blob/main/assets/art/light_dev.gif">
   </picture>
 
 <h3 align="left">
@@ -22,13 +22,13 @@
 
 <p>
   
-  - 👨🏻‍💻 Journeying through the **Common Core**
+  - 👨🏻‍💻 Full-Stack Dev, coding in my **free time**
 
-  - 📚 I’m currently learning to code in **C**
+  - 📚 I’m currently developing my **first** web application
 
   - 💡 Fun fact, **I *really* really like sports**
 
-  - 📫 Reach me at my <a href="mailto:nizarbidal18@gmail.com">**email**</a> or my <a href="https://discordapp.com/users/439707953176510477">**Discord**</a>
+  - 📫 Reach me at my <a href="mailto:nizarbidal18@gmail.com">**email**</a>
 
 </p>
 
@@ -39,12 +39,15 @@
 </h3>
 
 <p align="left">
-  <img alt="c" src="https://github.com/nbidal18/nbidal18/blob/main/content/c-original.svg" width="40" height="40" />
-  <!-- <img alt="cplusplus" src="https://github.com/nbidal18/nbidal18/blob/main/content/cplusplus-original.svg" width="40" height="40" /> -->
-  <!-- <img alt="html5" src="https://github.com/nbidal18/nbidal18/blob/main/content/html5-original-wordmark.svg" width="40" height="40" /> -->
-  <img alt="bash" src="https://github.com/nbidal18/nbidal18/blob/main/content/bash-original.svg" width="40" height="40" />
-  <!-- <img alt="php" src="https://github.com/nbidal18/nbidal18/blob/main/content/php-original.svg" width="40" height="40" /> -->
-  <!-- <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/content/mysql-original-wordmark.svg" width="40" height="40" /> --> </a>
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/bash-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/c-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/html5-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/css3-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/javascript-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/electron-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/sqlite-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/nodejs-icon.svg" width="40" height="40" />
+  <img alt="mysql" src="https://github.com/nbidal18/nbidal18/blob/main/assets/tech_stack/npm-icon.svg" width="40" height="40" />
 </p>
 
 <br>
