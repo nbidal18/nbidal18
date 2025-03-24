@@ -24,7 +24,7 @@
   
   - 👨🏻‍💻 Full-Stack Dev, coding in my **free time**
 
-  - 📚 I’m currently developing my **first** web application
+  - 🗓️ I’m currently developing my **first** web application
 
   - 💡 Fun fact, **I *really* really like sports**
 
