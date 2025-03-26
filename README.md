@@ -56,10 +56,10 @@
 
 <p>
     <picture>
-      <!-- dark mode -->
+      <!-- dark mode
       <source media="(prefers-color-scheme: dark)" 
           srcset="https://github-readme-streak-stats.herokuapp.com/?user=nbidal18&exclude_days=Sun%2CSat&excludeDaysLabel=0c1117&stroke=1D2B3D&background=0c1117&ring=417bff&fire=22c55e&currStreakNum=a0bdff&currStreakLabel=a0bdff&sideNums=a0bdff&sideLabels=a0bdff&dates=417bff&hide_border=false&border=1D2B3D">
-      <!-- light mode -->
+      <!-- light mode 
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nbidal18&exclude_days=Sun%2CSat&excludeDaysLabel=fefeff&stroke=c4c4c4&background=fefeff&ring=32857c&fire=ff3c0b&currStreakNum=50b9a6&currStreakLabel=50b9a6&sideNums=50b9a6&sideLabels=50b9a6&dates=32857c&hide_border=false&border=c4c4c4">
     </picture>
     <picture>
